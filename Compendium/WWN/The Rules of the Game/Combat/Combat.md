@@ -91,60 +91,60 @@ Effects:
 - Unconscious or incapacitated target will always suffer [[Mortal Wound]].
 ## Common Combat Actions
 
-> [!note] Melee Attack [[#Main Action]]
+> [!note] Melee Attack ([[#Main Action]])
 > An Actor attacks another actor within a melee range with a [[Readied]] weapon. Most melee attacks inflict [[Shock]] damage on a miss, if the target's [[Armor Class]] is low enough, and no successful hit does less damage than the weapon's [[Shock]] would have on a miss.
 ^meleeattack
 
-> [!note] Ranged Attack [[#Main Action]]
+> [!note] Ranged Attack ([[#Main Action]])
 > Same as [[Melee Attack]] but ranged. Two-handed ranged weapons cannot be used when there is a hostile actor in a melee range, while One-handed ranged weapons and thrown weapons can be used with -4 penalty to hit.
 ^rangedattack
 
-> [!note] Snap Attack [[#Instant Action]]
+> [!note] Snap Attack ([[#Instant Action]])
 > An attack made for speed at a cost of accuracy; -4 penalty to hit. The actor can still take a [[#Main Action]]
 ^snapattack
 
-> [!NOTE] Swarm Attack [[#Main Action]]
+> [!NOTE] Swarm Attack ([[#Main Action]])
 > A group attack against a single target with each aggressor adds +2 to hit and +1 to damage up to +6/+3. This damage does not affect Shock and cannot go over the maximum usually possible for the attack. Shock damage in Swarm Attack will always trigger and supersede other shock immunities. 
 ^swarmattack
 
-> [!NOTE] Cast a Spell [[#Main Action]]
+> [!NOTE] Cast a Spell ([[#Main Action]])
 > Can only cast when did not suffer any damage, if so, the actor cannot cast and will spell would fizzle if damage was taken during any point in the round.
 ^castspell
 
-> [!NOTE] Charge [Special]
-> Move up to twice their normal speed will grant the actor +2 bonus to hit and -2 AC for the round. This action is both [[#Move Action]] and [[#Main Action]].
+> [!NOTE] Charge (Special)
+> Move up to twice their normal speed will grant the actor +2 bonus to hit and -2 AC for the round. This action is both ([[#Move Action]]) and [[#Main Action]].
 ^charge
 
-> [!NOTE] Shatter a Shield [[#Main Action]]
+> [!NOTE] Shatter a Shield ([[#Main Action]])
 > The actor must be using a weapon either has crushing or hewing property to take this action. The action requires an opposed Str/Stab skill check with +1 bonus on the defender upon hit. Upon winning the opposed skill check, no damage is done but shield is broken. 
 > a magical shield cannot be targeted with this action and repairing a damaged shield require a scene's work and Craft-0 skill.
 ^shattershield
 
-> [!NOTE] Screen an Ally [[#Move Action]]
+> [!NOTE] Screen an Ally (([[#Move Action]]))
 > Move up to an ally at actor's normal speed and protect them from physical harm; Str/Dex opposed skill check against before attacking the screened ally. Screen an Ally can happen equal to the combat skill check level.
 ^screenanally
 
-> [!NOTE] Total Defense [[#Instant Action]]
-> Contents
+> [!NOTE] Total Defense ([[#Instant Action]])
+> Requires [[#Main Action]], immune to [[#Shock Damage]] and +2 bonus to their [[Armor Class]].
 ^totaldefense
 
-> [!NOTE] Run [[#Move Action]]
-> Contents
+> [!NOTE] Run ([[#Move Action]])
+> Can move up to their speed, requires [[Expert Skill Check]] to move at full speed on climbing, swimming and difficult terrain.
 ^run
 
-> [!NOTE] Make a Fighting Withdrawal [[#Main Action]]
-> Contents
+> [!NOTE] Make a Fighting Withdrawal ([[#Move Action]])
+> withdraw from the combat without drawing free melee attack.
 ^withdrawal
 
-> [!NOTE] Use a Skill [[#Main Action]]
+> [!NOTE] Use a Skill ([[#Move Action]])
 > Contents
 ^useskill
 
-> [!NOTE] Ready of Stow an Item [[#Main Action]]
+> [!NOTE] Ready of Stow an Item ([[#Move Action]])
 > Contents
 ^readyitem
 
-> [!NOTE] Reload a Weapon [[#Main Action]]
+> [!NOTE] Reload a Weapon ([[#Move Action]])
 > Contents
 ^reload
 
@@ -152,22 +152,22 @@ Effects:
 > Contents
 ^dropitem
 
-> [!NOTE] Pick up an Item [[#Move Action]]
+> [!NOTE] Pick up an Item ([[#Move Action]])
 > Contents
 ^pickupitem
 
-> [!NOTE] Stand Up [[#Move Action]]
+> [!NOTE] Stand Up ([[#Move Action]])
 > Contents
 ^standup
 
-> [!NOTE] Go Prone [[#On Turn Action]]
+> [!NOTE] Go Prone ([[#On Turn Action]])
 > Contents
 ^prone
 
-> [!NOTE] Hold an Action [[#Move Action]]
+> [!NOTE] Hold an Action ([[#Move Action]])
 > Contents
 ^holdaction
 
-> [!NOTE] Delay an Action [[#On Turn Action]]
+> [!NOTE] Delay an Action ([[#On Turn Action]])
 > Contents
 ^delayaction
